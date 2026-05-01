@@ -1,4 +1,4 @@
-# terminalGPT
+# TermainalAI 
 
 Developed by Mostafa Harby
 
